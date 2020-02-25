@@ -6,7 +6,10 @@ feito na nova branch
 O loquinho meu
 
 robotica prática 2
+<<<<<<< HEAD
 
 
 Inclusão de novos códigos em desenv
 
+=======
+>>>>>>> ed27284f6bb29ad80863a52fa201c1e7f439ca09
